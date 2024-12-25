@@ -1,1 +1,1 @@
-Short and Responsive Article Type project based on positioning. 
+Initial Short and Responsive Project using Html & Css3 based on positioning.
